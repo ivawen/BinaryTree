@@ -2,7 +2,6 @@
 In this program, I am implementing a binary tree. The binary tree in question is an array which consists of 20 elements {60,58,21,3,13,100,81,76,66,10,2,32,83,78,80,86,44,5,19,93}.  
 Here is a graphic representation of the tree with the same values in the array.  
 
-![Capture.JPG]({{site.baseurl}}/Capture.JPG)
 
 ![]({{site.baseurl}}//Capture.JPG)
 
