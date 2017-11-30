@@ -4,6 +4,8 @@ Here is a graphic representation of the tree with the same values in the array.
 
 ![Capture.JPG]({{site.baseurl}}/Capture.JPG)
 
+![]({{site.baseurl}}//Capture.JPG)
+
 
 The purpose here is to write a function that adds these elements to the tree first, by using linked lists to create nodes createNode(), then add nodes addNode() to each element in the tree. After adding the elements, we want to perform an in-Order traversal on the tree. Lastly we want to print the parent nodes along with their children PrintChildren(). We declare a left and right child pointers, a value variable which hold the value inside each node, a root node (top of the tree, pointer also)   
 
